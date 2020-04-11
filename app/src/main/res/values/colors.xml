@@ -2,9 +2,9 @@
 <resources>
     <color name="colorPrimary">@color/endbgcolor</color>
     <color name="colorPrimaryDark">@color/endbgcolor</color>
-    <color name="colorAccent">#c0ca33</color>
-    <color name="yellowbg">#FFDE03</color>
-    <color name="startbgcolor">#3a1c71</color>
+    <color name="colorAccent">#254CC1</color>
+    <color name="yellowbg">#254CC1</color>
+    <color name="startbgcolor">#a8edea</color>
     <color name="centerbgcolor">#d76d77</color>
-    <color name="endbgcolor">#ffaf7b</color>
+    <color name="endbgcolor">#fed6e3</color>
 </resources>
